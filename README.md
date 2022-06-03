@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Togokaarthik
+- 👋 Hi, I’m @kaarthik
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Probablity and Statisctics
 - 💞️ I’m looking to collaborate on ...
